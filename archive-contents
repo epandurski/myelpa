@@ -7,6 +7,7 @@
  (cfrs . [(1 6 0) ((emacs (26 1)) (dash (2 11 0)) (s (1 10 0)) (posframe (0 6 0))) "Childstring" tar])
  (company . [(0 9 13) ((emacs (24 3))) "Modular text completion framework" tar])
  (dash . [(2 19 1) ((emacs (24))) "A modern list library for Emacs" tar])
+ (diminish . [(0 45) nil "Diminished modes are minor modes with no modeline display" tar])
  (dockerfile-mode . [(1 8) ((emacs (24))) "Major mode for editing Docker's Dockerfiles" tar])
  (epl . [(0 9) ((cl-lib (0 3))) "Emacs Package Library" tar])
  (f . [(0 20 0) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" tar])
