@@ -5,6 +5,7 @@
  (bind-chord . [(2 4 4) ((emacs (24 3)) (bind-key (1 0)) (key-chord (0 6))) "keychords" tar])
  (bind-key . [(2 4 4) ((emacs (24 3))) "A simple way to manage personal keybindings" tar])
  (cargo . [(0 4 1) ((emacs (24 3)) (rust-mode (0 2 0))) "Emacs Minor Mode for Cargo, Rust's Package Manager." tar])
+ (cargo-mode . [(20210605 1003) ((emacs (25 1))) "Cargo Major Mode. Cargo is the Rust package manager" tar])
  (cfrs . [(1 6 0) ((emacs (26 1)) (dash (2 11 0)) (s (1 10 0)) (posframe (0 6 0))) "Childstring" tar])
  (company . [(0 9 13) ((emacs (24 3))) "Modular text completion framework" tar])
  (dash . [(2 19 1) ((emacs (24))) "A modern list library for Emacs" tar])
