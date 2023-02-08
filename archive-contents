@@ -51,4 +51,5 @@
  (yasnippet . [(0 14 0) ((cl-lib (0 5))) "Yet another snippet extension for Emacs" tar])
  (yasnippet-snippets . [(1 0) ((yasnippet (0 8 0))) "Collection of yasnippet snippets" tar])
  (monokai-theme . [(3 5 3) nil "A fruity color theme for Emacs." tar])
+ (monokai-pro-theme . [(20210206 1820) nil "A simple theme based on the Monokai Pro Sublime color schemes" tar])
 )
