@@ -50,4 +50,5 @@
  (yaml-mode . [(0 0 15) ((emacs (24 1))) "Major mode for editing YAML files" tar])
  (yasnippet . [(0 14 0) ((cl-lib (0 5))) "Yet another snippet extension for Emacs" tar])
  (yasnippet-snippets . [(1 0) ((yasnippet (0 8 0))) "Collection of yasnippet snippets" tar])
+ (monokai-theme . [(3 5 3) nil "A fruity color theme for Emacs." tar])
 )
